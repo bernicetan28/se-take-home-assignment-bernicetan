@@ -1,9 +1,9 @@
 # Ordering System Prototype
 ## Customer View
-![image alt](https://github.com/bernicetan28/se-take-home-assignment-bernicetan/blob/a2f06f07e890fc696d2ba8a938114a2513f063c0/Screenshot%202025-07-08%20182418.png)
+![image alt](https://github.com/bernicetan28/se-take-home-assignment-bernicetan/blob/a2f06f07e890fc696d2ba8a938114a2513f063c0/Screenshot%202025-07-08%20182352.png)
 
 ## Manager View
-![image alt](https://github.com/bernicetan28/se-take-home-assignment-bernicetan/blob/a2f06f07e890fc696d2ba8a938114a2513f063c0/Screenshot%202025-07-08%20182352.png)
+![image alt](https://github.com/bernicetan28/se-take-home-assignment-bernicetan/blob/a2f06f07e890fc696d2ba8a938114a2513f063c0/Screenshot%202025-07-08%20182418.png)
 
 ## Technologies Used
 - HTML
